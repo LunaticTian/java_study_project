@@ -3,4 +3,5 @@
 
 ## Study Project List
 
-- [MVC Îå×ÓÆå](/MVC_Reversi)
+- [MVC_äº”å­æ£‹](/MVC_Reversi)
+ 
